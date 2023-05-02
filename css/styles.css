@@ -375,7 +375,6 @@ margin-left: auto;
 .customers-list {
     display: flex;
     gap: 24px;
-    margin-bottom: 120px;
 }
 .customers-a {
     width: 100%;
