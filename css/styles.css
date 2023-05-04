@@ -86,10 +86,8 @@ img {
  }
     /* List */
 .nav-list-header {
-    margin-right: auto;
     display: flex; 
     align-items: center; 
-    /* padding: 24px 0; */
 }
 .list-header {
     display: flex;
@@ -100,7 +98,6 @@ img {
     display: flex;
     gap: 40px;
     align-items: center;
-    padding: 24px 0;
 }
  .link-header {
     text-decoration: none;
@@ -224,9 +221,6 @@ margin-left: auto;
     border-radius: 4px;
     background-color: var(--colo4);
     margin-bottom: 8px;
-}
-.about-svg {
-    margin: 24px 100px;
 }
 .features-title {
     font-weight: 500;
@@ -534,9 +528,6 @@ margin-left: auto;
     }
 
 .small {
-    font-size: 16px;
-    line-height: 1.5px;
-    color: var(--colo2);
     display: block;
 }
 .small:hover {
